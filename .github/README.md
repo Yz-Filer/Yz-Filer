@@ -213,7 +213,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   - ImageMagick
 
 - ffmpegで動画から静止画を抽出  
-  '''ffmpeg -i video.mp4 -ss 0 -t 2 -r 4 -q:v 1 -f image2 %03d.jpg'''
+  ```ffmpeg -i video.mp4 -ss 0 -t 2 -r 4 -q:v 1 -f image2 %03d.jpg```
 
   | オプション | 説明 |
   --- | ---

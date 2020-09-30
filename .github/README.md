@@ -137,3 +137,42 @@
 - ファイルコピー時など、パーミッションがないディレクトリは勝手にスキップします。  
   パーミッションがないファイルの場合は、0byteファイルとしてコピーされます。
   
+## ライブラリ類およびライセンス
+- 本ソフトウェア（Yz-Filer.net）  
+  Copyright (c) 2020 Yz  
+  Released under the MIT license  
+  https://opensource.org/licenses/mit-license.php
+
+- hnx8さんのHnx8.ReadJEnc（テキストファイル文字エンコード自動判別）  
+  MIT License  
+  https://github.com/hnx8/ReadJEnc/blob/master/LICENSE
+
+- DotNetZip(Ionic Zip)  
+  Microsoft Public License (Ms-PL)  
+  著作権表示等はそのまま掲載する必要があるようなのでリンクを貼っておきます。  
+  https://raw.githubusercontent.com/haf/DotNetZip.Semverd/master/LICENSE
+  
+- Xceed Extended WPF Toolkit  
+  コミュニティライセンス契約（非商用目的）に準じます。  
+  Xceedの著作権表示と非商用を求められています。  
+  https://github.com/xceedsoftware/wpftoolkit/blob/master/license.md
+
+- Magick.NET  
+  Apacheライセンス バージョン2.0  
+  https://github.com/dlemstra/Magick.NET/blob/master/License.txt
+
+- SSH.NET  
+  MIT License  
+  https://github.com/sshnet/SSH.NET/blob/master/LICENSE
+  
+- WTFManager  
+  LGPL
+
+- Microsoft System.Text.Json  
+  MIT License  
+  https://www.nuget.org/packages/System.Text.Json/
+
+- Microsoft.Bcl.AsyncInterfaces  
+  MIT License  
+  https://www.nuget.org/packages/Microsoft.Bcl.AsyncInterfaces/
+

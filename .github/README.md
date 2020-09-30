@@ -208,7 +208,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
 ![](./Nature_manga.gif) | ![](./Nature_blackboard.gif)
 
 - 環境  
-  コマンドライン版の以下のツールが必要です
+  コマンドライン版の以下のツールが必要です  
   - ffmpeg
   - ImageMagick
 
@@ -235,7 +235,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   400x400 | 幅x高さ（アスペクト比維持）
   \*.png | 対象ファイル指定
 
-- ImageMagickでアニメーションGIF作成  
+- アニメーションGIFを作成する場合は、ImageMagickでアニメーションGIF作成  
   convert.exe -delay 25 -loop 0 \*.png out.gif
 
   | オプション | 説明 |
@@ -245,7 +245,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   \*.png | 対象ファイル指定
   movie.gif | 出力ファイル名
 
-- 動画にする場合は、ffmpegで作成  
+- 動画を作成する場合は、ffmpegで動画作成  
   ffmpeg -framerate 4 -i %03d.png -vcodec libx264 -pix_fmt yuv420p -r 4 -b:v 2000k out.mp4
 
   | オプション | 説明 |
@@ -258,7 +258,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   out.mp4 | 出力ファイル名
   
 ## おまけ2(画像まとめて変換)
-おまけが面倒くさかったので、やっつけで「画像まとめて変換」君を作ってみました。  
+おまけ1の手動部分が面倒くさかったので、やっつけで「画像まとめて変換」君を作ってみました。  
 ついでに、背景画像も指定出来るようにしてみました。  
 ※対応している入出力画像は、「\*.jpg」のみです。  
 
@@ -269,6 +269,10 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
 | 板(2値化) | 黒板アート風 |
 :----: | :----:
 ![](./Model_wood.gif) | ![](./Model_blackboard.gif)
+
+「画像まとめて変換」君のインストール
+- レジストリは使用してません。任意のディレクトリに解凍して下さい。
+- アンインストールはディレクトリごと削除して下さい。
 
 やり方は、おまけ1とほとんど同じです。
 - ffmpegで連番画像を出力(FPSの調整とかは、ここで実施)

@@ -228,7 +228,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
 
 - ImageMagickで一括リサイズ（任意）  
   ※指定した全ての画像が変換されるので注意  
-  ```mogrify.exe -resize 400x400 \*.png```
+  ```mogrify.exe -resize 400x400 *.png```
 
   | オプション | 説明 |
   --- | ---
@@ -236,7 +236,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   \*.png | 対象ファイル指定
 
 - アニメーションGIFを作成する場合は、ImageMagickでアニメーションGIF作成  
-  ```convert.exe -delay 25 -loop 0 \*.png out.gif```
+  ```convert.exe -delay 25 -loop 0 *.png out.gif```
 
   | オプション | 説明 |
   --- | ---

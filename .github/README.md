@@ -196,7 +196,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
 また、hnx8さんやその他の方のライブラリも使わせてもらいました。  
 ありがとうございます。  
 
-## おまけ
+## おまけ1
 画像効果がちょっと面白かったので、遊んでみました
 
 | スケッチ風 | 水彩画風 |
@@ -246,7 +246,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   movie.gif | 出力ファイル名
 
 - 動画にする場合は、ffmpegで作成  
-  ffmpeg -framerate 4 -i %03d.jpg -vcodec libx264 -pix_fmt yuv420p -r 4 -b:v 2000k out.mp4
+  ffmpeg -framerate 4 -i %03d.png -vcodec libx264 -pix_fmt yuv420p -r 4 -b:v 2000k out.mp4
 
   | オプション | 説明 |
   --- | ---
@@ -270,3 +270,9 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
 :----: | :----:
 ![](./Model_wood.gif) | ![](./Model_blackboard.gif)
 
+やり方は、おまけ1とほとんど同じです。
+- ffmpegで連番画像を出力(FPSの調整とかは、ここで実施)
+- 「画像まとめて変換」君起動後の設定画面で、入出力ディレクトリ、処理モード、背景画像などを選択
+- 経過画面が表示されるので、「Start」で変換開始
+- 出力ディレクトリにjpg画像が出力されているので、おまけ1の手順でアニメーションGIFか動画を作成  
+  ※拡張子がjpgになってるので、おまけ1の「.png」は「.jpg」に修正すること

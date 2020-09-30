@@ -205,7 +205,8 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   ss | 開始時間(sec)
   t | 切り出し時間(sec)
   r | 1秒間の間で切り出す枚数(4を指定すると0.25秒毎に1枚出力)
-  q | 品質指定（「q:v 1」で最高品質）
+  q:v | 品質指定（「1」で最高品質）
+  %03d.jpg | 出力ファイル名(%03dは3桁の通番)
 
 - 抽出した静止画に対して手動で画像効果を適用
 
@@ -216,15 +217,17 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   | オプション | 説明 |
   --- | ---
   400x400 | 幅x高さ（アスペクト比維持）
+  *.png | 対象ファイル指定
 
 - ImageMagickでアニメーションGIF作成  
-  convert.exe -delay 25 -loop 0 *.png movie.gif
+  convert.exe -delay 25 -loop 0 asterisk.png movie.gif
 
   | オプション | 説明 |
   --- | ---
   delay | 画像の切り替え時間(1/100秒単位。25を指定すると0.25秒毎に切り替え)
   loop | 繰り返し回数(0を指定すると無限)
-
+  *.png | 対象ファイル指定
+  movie.gif | 出力ファイル名
 
 - 動画にする場合は、ffmpegで作成  
   ffmpeg -framerate 4 -i %03d.jpg -vcodec libx264 -pix_fmt yuv420p -r 4 -b:v 4000k 00_out.mp4

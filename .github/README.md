@@ -220,7 +220,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   *.png | 対象ファイル指定
 
 - ImageMagickでアニメーションGIF作成  
-  convert.exe -delay 25 -loop 0 asterisk.png movie.gif
+  convert.exe -delay 25 -loop 0 \*.png movie.gif
 
   | オプション | 説明 |
   --- | ---

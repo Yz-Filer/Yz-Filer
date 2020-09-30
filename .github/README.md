@@ -1,16 +1,18 @@
-### Hi there 👋
+# Yz-Filer
+## はじめに
+キー操作系ファイラ―のFD、FILMTN、WinFMっぽいタブ型ファイラ―です。
+任意のフォルダをドライブとして登録し、数字キーを使って移動することが出来ます
+（NW共有フォルダ、ZIPファイル、SFTPもドライブとして登録出来ます）
 
-<!--
-**Yz-Filer/Yz-Filer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-動作環境は、Windows10 .NET Framework 4.6.1以上となります
 
-Here are some ideas to get you started:
+-対応している圧縮形式はZIPのみです
+  （読み込み可能なZIPファイルは利用しているDLL(Ionic Zip)に依存します）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-対応しているメディア(音声・動画)形式は利用している.netのコントロールに依存します
+  （おそらくWindows MediaPlayerに依存します）
+
+-対応している画像形式は利用しているDLL（Imagemagick）に依存します
+  ※GhostScriptが必要なPDF等の形式には対応してません
+
+-ファイルリストの複数行表示（段組み？）には対応してません

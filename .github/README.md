@@ -208,32 +208,36 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   q:v | 品質指定（「1」で最高品質）
   %03d.jpg | 出力ファイル名(%03dは3桁の通番)
 
-- 抽出した静止画に対して手動で画像効果を適用
+- 抽出した静止画に対して画像ビューアのEffectを使って手動で画像効果を適用
 
 - ImageMagickで一括リサイズ（任意）  
   ※指定した全ての画像が変換されるので注意  
-  mogrify.exe -resize 400x400 *.png
+  mogrify.exe -resize 400x400 \*.png
 
   | オプション | 説明 |
   --- | ---
   400x400 | 幅x高さ（アスペクト比維持）
-  *.png | 対象ファイル指定
+  \*.png | 対象ファイル指定
 
 - ImageMagickでアニメーションGIF作成  
-  convert.exe -delay 25 -loop 0 \*.png movie.gif
+  convert.exe -delay 25 -loop 0 \*.png out.gif
 
   | オプション | 説明 |
   --- | ---
   delay | 画像の切り替え時間(1/100秒単位。25を指定すると0.25秒毎に切り替え)
   loop | 繰り返し回数(0を指定すると無限)
-  *.png | 対象ファイル指定
+  \*.png | 対象ファイル指定
   movie.gif | 出力ファイル名
 
 - 動画にする場合は、ffmpegで作成  
-  ffmpeg -framerate 4 -i %03d.jpg -vcodec libx264 -pix_fmt yuv420p -r 4 -b:v 4000k 00_out.mp4
+  ffmpeg -framerate 4 -i %03d.jpg -vcodec libx264 -pix_fmt yuv420p -r 4 -b:v 2000k out.mp4
 
   | オプション | 説明 |
   --- | ---
   framerate | 入力フレームレート
+  %03d.png | 対象ファイル指定
+  libx264 | 動画コーデック指定
   r | 出力フレームレート
   b:v | 動画のビットレート
+  out.mp4 | 出力ファイル名
+  

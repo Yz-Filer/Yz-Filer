@@ -199,7 +199,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
 - ffmpegで動画から静止画を抽出  
   ffmpeg -i video.mp4 -ss 0 -t 2 -r 4 -q:v 1 -f image2 %03d.jpg
 
-| オプション | 説明 |
+  | オプション | 説明 |
   --- | ---
   video.mp4 | 対象とする動画パス
   ss | 開始時間(sec)

@@ -5,6 +5,8 @@
 - 動作環境は、Windows10 .NET Framework 4.6.1以上となります
 - 対応している圧縮形式はZIPのみです  
 （読み込み可能なZIPファイルは利用しているDLL(Ionic Zip)に依存します）
-- 対応しているメディア(音声・動画)形式は利用している.netのコントロールに依存します  （おそらくWindows MediaPlayerに依存します）
-- 対応している画像形式は利用しているDLL（Imagemagick）に依存します  ※GhostScriptが必要なPDF等の形式には対応してません
+- 対応しているメディア(音声・動画)形式は利用している.netのコントロールに依存します  
+（おそらくWindows MediaPlayerに依存します）
+- 対応している画像形式は利用しているDLL（Imagemagick）に依存します  
+※GhostScriptが必要なPDF等の形式には対応してません
 - ファイルリストの複数行表示（段組み？）には対応してません

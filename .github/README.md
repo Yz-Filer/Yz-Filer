@@ -243,7 +243,7 @@ LinuxではWPFが動かないことを後から知り、「.NET Framework」に�
   delay | 画像の切り替え時間(1/100秒単位。25を指定すると0.25秒毎に切り替え)
   loop | 繰り返し回数(0を指定すると無限)
   \*.png | 対象ファイル指定
-  movie.gif | 出力ファイル名
+  out.gif | 出力ファイル名
 
 - 動画を作成する場合は、ffmpegで動画作成  
   ```ffmpeg -framerate 4 -i %03d.png -vcodec libx264 -pix_fmt yuv420p -r 4 -b:v 2000k out.mp4```

@@ -184,7 +184,7 @@
   MIT License  
   https://www.nuget.org/packages/Microsoft.Bcl.AsyncInterfaces/
 
-## 最後に
+## おわりに
 はじめてC#でプログラムしました。  
 ググリながら増改築を繰り返したので、びっくりするくらい行き当たりばったりなソースとなり、  
 不具合が残ってるかもしれません。  

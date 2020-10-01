@@ -38,7 +38,7 @@
   
     - Mode指定は、WIN：ローカル、SMB：NW共有フォルダ、ZIP：ZIPファイル、SFTP：SFTP接続です。
 
-    - SMBのRoot Directory指定は、「\\\\IPアドレス\\フォルダ名1\\フォルダ名2…」です。  
+    - SMBのRoot Directory指定は、「&yen;&yen;IPアドレス&yen;フォルダ名1&yen;フォルダ名2…」です。  
      フォルダ名1は必ず指定して下さい。
   
     - ZIPのRoot Directory指定は、「/フォルダ名1/フォルダ名2…」のように指定して下さい。  

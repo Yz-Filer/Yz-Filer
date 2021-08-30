@@ -148,6 +148,14 @@
   MIT License  
   https://www.nuget.org/packages/Microsoft.Bcl.AsyncInterfaces/
 
+- AvalonEdit  
+  MIT License  
+  https://opensource.org/licenses/MIT
+
+- Be.HexEditor  
+  MIT License  
+  https://github.com/Pkcs11Admin/Be.HexEditor/blob/master/LICENSE.txt
+
 ## おわりに
 はじめてC#でプログラムしました。  
 ググリながら増改築を繰り返したので、びっくりするくらい行き当たりばったりなソースとなり、  

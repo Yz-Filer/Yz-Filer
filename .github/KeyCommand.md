@@ -104,3 +104,18 @@
 |F6|TreeViewの表示/非表示||
 |F7|ドライブの設定|・SMBのRoot directoryに「￥」のみは不可<br>　必ず1階層はフォルダが必要（￥share_folder など）<br>・ホスト名で入力した場合、接続はIPアドレスに変換して実行される<br>　うまく接続できない場合、IPアドレスを入力すること<br>・Passwordは未入力でも可。その場合接続ごとに入力が必要<br>・Root directory末尾に「￥」「/」は不要<br>・Keyファイル自体にパスワード設定がない場合、Key Passwordは未入力で可|
 |F8|起動オプションの設定||
+
+
+### マウス
+|キー|機能|備考|
+|:---|:---|:---|
+|ファイルのD&D|ファイルをD&Dでコピー/移動する|SFTP/SCPは他アプリとの互換性なし|
+|ファイルの右クリック|右クリックメニューの表示|SFTP/SCPでは利用できない|
+|スプリッターダブルクリック|TreeViewの幅を自動調整にする||
+|タブのタグ文字を右クリック|タブを閉じる||
+|タブのタグ文字をD&D|タブの順番を入れ替える||
+|TreeViewのZ〇〇右クリック|選択ドライブをTreeViewから削除||
+|TreeViewダブルクリック|TreeView Enterと同様||
+|ListViewダブルクリック|ListView Enterと同様||
+|Ctrl + TreeViewダブルクリック|Ctrl + TreeView Enterと同様||
+|Ctrl + ListViewダブルクリック|Ctrl + ListView Enterと同様||

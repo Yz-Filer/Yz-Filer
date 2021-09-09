@@ -357,5 +357,6 @@ C#プログラムについては、DOBONさん始め多くの方のHPを参考�
   ※拡張子がjpgになってるので、おまけ1の「.png」は「.jpg」に修正して下さい
 
 ## おまけ3(動画変換)
-以下のURLで公開してます
+OpenCVを使って高速化しました。  
+以下のURLで公開してます。  
 https://github.com/Yz-Filer/Yz-VideoEffect

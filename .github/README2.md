@@ -226,7 +226,7 @@
   Copyright (c) 2020 Yz  
   Released under the MIT license  
   https://opensource.org/licenses/mit-license.php  
-  作者または著作権者は、本ソフトウェアに起因して被った直接的または間接的損害については一切責任を負わず、また保証も出来ません
+  作者または著作権者は、本ソフトウェアに起因して被った直接的または間接的損害については一切責任を負わず、また保証/補償も出来ません
 
 - hnx8さんのHnx8.ReadJEnc（テキストファイル文字エンコード自動判別）  
   MIT License  

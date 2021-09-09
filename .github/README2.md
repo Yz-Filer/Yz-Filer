@@ -154,7 +154,9 @@
       - サンプル  
         カラーサンプルを表示します
 
-
+      | White | Dark | Dark Navy | Dark Brown | Dark Green |
+      :----: | :----: | :----: | :----: | :----:
+      ![](./White2.png) | ![](./Dark2.png) | ![](./DarkNavy2.png) | ![](./DarkBrown2.png) | ![](./DarkGreen2.png)
 
   - キーコマンド一覧は、F1キーで表示されます。  
     [こちらにも一覧があります](./KeyCommand.md)

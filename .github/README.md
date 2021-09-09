@@ -224,7 +224,7 @@
   属性の反映に失敗してしまう事があります
 
 ## ライブラリ類およびライセンス
-- 本ソフトウェア（Yz-Filer.net）  
+- 本ソフトウェア（Yz-Filer）  
   Copyright (c) 2020 Yz  
   Released under the MIT license  
   https://opensource.org/licenses/mit-license.php  

@@ -260,7 +260,8 @@
   https://www.nuget.org/packages/Microsoft.Bcl.AsyncInterfaces/
 
 - Fred's ImageMagick Scripts  
-  非商用目的のみ無料  
+  画像効果のアルゴリズムを参考にさせて貰ってます。  
+  非商用目的のみ無料で利用可  
   http://www.fmwconcepts.com/imagemagick/index.php
 
 - AvalonEdit  

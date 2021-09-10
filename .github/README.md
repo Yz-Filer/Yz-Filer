@@ -258,6 +258,10 @@
   MIT License  
   https://www.nuget.org/packages/Microsoft.Bcl.AsyncInterfaces/
 
+- Fred's ImageMagick Scripts
+  非商用目的のみ無料  
+  http://www.fmwconcepts.com/imagemagick/index.php
+
 - AvalonEdit  
   MIT License  
   https://opensource.org/licenses/MIT

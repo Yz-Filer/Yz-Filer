@@ -359,7 +359,8 @@ C#プログラムについては、DOBONさん始め多くの方のHPを参考�
   out.mp4 | 出力ファイル名
 
 ## おまけ2(動画変換 / 静止画変換(パラメータ指定版))
-OpenCVを使って高速化しました。  
-写真や動画をエッジ、2値化、3値化、水彩画風、黒板アート風、スケッチ風、アニメ風に変換するツールとなります。  
-以下のURLで公開してます。  
-https://github.com/Yz-Filer/Yz-VideoEffect
+### Yz-VideoEffect / Yz-ImageEffect
+　OpenCVを使って高速化しました。  
+　写真や動画をエッジ、2値化、3値化、水彩画風、黒板アート風、スケッチ風、アニメ風に変換するツールとなります。  
+　以下のURLで公開してます。  
+　https://github.com/Yz-Filer/Yz-VideoEffect

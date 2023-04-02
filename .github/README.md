@@ -2,7 +2,7 @@
 
 
 ※某掲示板にはエラーが出て書き込めなくなったので、こちらに記載します。  
-　Go言語+GTK3で作成したLinux対応版をvectorに登録しました。  
+　Go言語+GTK3で作成したLinux対応版（Ver.3）をvectorに登録しました。  
 　無保証のフリーソフトなので、事前バックアップをとって使うなど自衛をして利用をお願いします。  
 　https://www.vector.co.jp/soft/data/util/se523591.html
 

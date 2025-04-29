@@ -35,3 +35,4 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 ![](https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl6.gif)  
 
 Microsoft OfficeのPowerPoint形式（Office Open XMLのプレゼンテーション形式）で保存された図形に接続ポイントと調整ハンドルを追加するツールです。  
+「図形の結合」機能とあわせて使うとオリジナルの図形が作成できます。  

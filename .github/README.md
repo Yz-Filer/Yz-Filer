@@ -1,8 +1,6 @@
 # Yz-Filer, go言語 & gotk3, Yz-VideoEffect / Yz-ImageEffect, Office Shape Tool
 
-## 1. Yz-Filer Ver.2  
-
-[Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/Yz-Filer.md)  
+## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/Yz-Filer.md)  
 
 ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/DarkNavy2.png)  
 

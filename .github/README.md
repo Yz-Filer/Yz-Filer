@@ -16,7 +16,7 @@
 
 ![](https://github.com/Yz-Filer/golang/blob/main/Contents/01/image/window.jpg)  
 
-Yz-Filer作成時に調べきれなかった事とかがあったので、GeminiとWEB検索を利用して調べ直した自分用のメモです。  
+Yz-Filer作成時に調べきれなかった事とかがあったので、GeminiとWEB検索を利用して調べ直したメモです。  
 
 - 他のPCで動作させる方法、テーマを使う方法  
 - タスクトレイ常駐、いくつかのコントロール、カスタムシグナル、書式設定、クリップボード、USBドライブイジェクト、ディレクトリ監視、Drag and Drop、文字コード判定  

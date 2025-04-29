@@ -26,8 +26,8 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 
 ## 4. [Yz-VideoEffect / Yz-ImageEffect](https://github.com/Yz-Filer/Yz-VideoEffect)  
 
-![](https://github.com/Yz-Filer/Yz-VideoEffect/blob/main/.github/sample/sk_kanazawa_org.jpg | width=300)
-![](https://github.com/Yz-Filer/Yz-VideoEffect/blob/main/.github/sample/sk_kanazawa.jpg | width=300)  
+![](https://github.com/Yz-Filer/Yz-VideoEffect/blob/main/.github/sample/sk_kanazawa_org.jpg | width=100)
+![](https://github.com/Yz-Filer/Yz-VideoEffect/blob/main/.github/sample/sk_kanazawa.jpg | width=100)  
 
 写真や動画をエッジ、2値化、3値化、水彩画風、黒板アート風、スケッチ風、アニメ風に変換するツールです。  
 

@@ -30,7 +30,7 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 
 写真や動画をエッジ、2値化、3値化、水彩画風、黒板アート風、スケッチ風、アニメ風に変換するツールです。  
 
-## 5. [Office Shape Tool](https://github.com/Yz-Filer/OfficeShapeTool)  
+## 5. [OfficeShapeTool](https://github.com/Yz-Filer/OfficeShapeTool)  
 
 ![](https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl6.gif)  
 

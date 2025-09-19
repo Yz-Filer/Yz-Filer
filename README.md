@@ -17,7 +17,7 @@
 
 ## 3. [go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  
 
-![](https://github.com/Yz-Filer/golang/blob/main/Contents/01/image/window.jpg)  
+![](image/window.jpg)  
 
 Yz-Filer作成時に調べきれなかった事とかがあったので、GeminiとWEB検索を利用して調べ直したメモです。  
 
@@ -29,13 +29,13 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 
 ## 4. [Yz-VideoEffect / Yz-ImageEffect](https://github.com/Yz-Filer/Yz-VideoEffect)  
 
-<img src="https://github.com/Yz-Filer/Yz-VideoEffect/blob/main/image/sample/sk_kanazawa_org.jpg" width="40%" /> <img src="https://github.com/Yz-Filer/Yz-VideoEffect/blob/main/image/sample/sk_kanazawa.jpg" width="40%" />  
+<img src="image/sk_kanazawa_org.jpg" width="40%" /> <img src="image/sk_kanazawa.jpg" width="40%" />  
 
 写真や動画をエッジ、2値化、3値化、水彩画風、黒板アート風、スケッチ風、アニメ風に変換するツールです。  
 
 ## 5. [OfficeShapeTool](https://github.com/Yz-Filer/OfficeShapeTool)  
 
-![](https://github.com/Yz-Filer/OfficeShapeTool/blob/main/image/hdl6.gif)  
+![](image/hdl6.gif)  
 
 Microsoft OfficeのPowerPoint形式（Office Open XMLのプレゼンテーション形式）で保存された図形に接続ポイントと調整ハンドルを追加するツールです。  
 「図形の結合」機能とあわせて使うとオリジナルの図形が作成できます。  

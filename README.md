@@ -1,6 +1,6 @@
 # YzのRepositories
 
-## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer.md)  
+## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/Yz-Filer.md)  
 
 ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/DarkNavy2.png)  
 

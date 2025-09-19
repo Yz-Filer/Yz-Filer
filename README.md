@@ -11,7 +11,7 @@
 3
 <img src="../Yz-Filer/image/DarkNavy2.png" />  
 4
-![](../Yz-Filer/image/DarkNavy2.png)   
+![](../Yz-Filer/blob/master/image/DarkNavy2.png)   
 
 キー操作系ファイラ―のFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラ―です。  
 ※Windows版  

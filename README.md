@@ -19,7 +19,12 @@
 
 ## 3. [go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  
 
-![](https://github.com/Yz-Filer/golang/blob/main/Contents/01/image/window.jpg)  
+0
+![](https://github.com/Yz-Filer/golang/blob/main/Contents/01/image/window.jpg)    
+1
+<img src="../golang/blob/main/Contents/01/image/window.jpg" />  
+2
+<img src="../golang/Contents/01/image/window.jpg" />  
 
 Yz-Filer作成時に調べきれなかった事とかがあったので、GeminiとWEB検索を利用して調べ直したメモです。  
 

@@ -1,6 +1,6 @@
 # YzのRepositories
 
-## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/Yz-Filer.md)  
+## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer)  
 
 ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/DarkNavy2.png)  
 
@@ -36,3 +36,4 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 
 Microsoft OfficeのPowerPoint形式（Office Open XMLのプレゼンテーション形式）で保存された図形に接続ポイントと調整ハンドルを追加するツールです。  
 「図形の結合」機能とあわせて使うとオリジナルの図形が作成できます。  
+

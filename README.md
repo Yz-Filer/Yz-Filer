@@ -4,17 +4,6 @@
 
 ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/image/DarkNavy2.png)  
 
-0
-<img src="https://github.com/Yz-Filer/Yz-Filer/blob/master/image/DarkNavy2.png" />  
-1
-<img src="../Yz-Filer/blob/master/image/DarkNavy2.png" />  
-2
-<img src="../Yz-Filer/image/DarkNavy2.png" />  
-3
-<img src="../Yz-Filer/image/DarkNavy2.png" />  
-4
-![](../Yz-Filer/blob/master/image/DarkNavy2.png)   
-
 キー操作系ファイラ―のFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラ―です。  
 ※Windows版  
 

@@ -2,6 +2,9 @@
 
 ## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/Yz-Filer.md)  
 
+> [!NOTE]  
+> `https://yz-filer.github.io/Yz-Filer/`のURLが表示されていて表示が崩れてる場合は、上記リンクからオリジナルページ`https://github.com/Yz-Filer`にアクセスして下さい。  
+
 ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/image/DarkNavy2.png)  
 
 キー操作系ファイラ―のFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラ―です。  

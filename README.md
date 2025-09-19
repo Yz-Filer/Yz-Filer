@@ -9,7 +9,7 @@
 2
 <img src="../Yz-Filer/image/DarkNavy2.png" />  
 3
-<img src="../../Yz-Filer/image/DarkNavy2.png" />  
+<img src="../Yz-Filer/image/DarkNavy2.png" />  
 4
 ![](../Yz-Filer/image/DarkNavy2.png)   
 

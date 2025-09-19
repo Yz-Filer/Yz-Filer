@@ -2,7 +2,7 @@
 
 ## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/Yz-Filer.md)  
 
-![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/DarkNavy2.png)  
+![](https://github.com/Yz-Filer/Yz-Filer/blob/master/image/DarkNavy2.png)  
 
 キー操作系ファイラ―のFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラ―です。  
 ※Windows版  
@@ -32,7 +32,7 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 
 ## 5. [OfficeShapeTool](https://github.com/Yz-Filer/OfficeShapeTool)  
 
-![](https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl6.gif)  
+![](https://github.com/Yz-Filer/OfficeShapeTool/blob/main/image/hdl6.gif)  
 
 Microsoft OfficeのPowerPoint形式（Office Open XMLのプレゼンテーション形式）で保存された図形に接続ポイントと調整ハンドルを追加するツールです。  
 「図形の結合」機能とあわせて使うとオリジナルの図形が作成できます。  

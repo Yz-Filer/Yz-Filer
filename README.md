@@ -2,6 +2,8 @@
 
 ## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/Yz-Filer.md)  
 
+![](https://github.com/Yz-Filer/Yz-Filer/blob/master/image/DarkNavy2.png)  
+
 0
 <img src="https://github.com/Yz-Filer/Yz-Filer/blob/master/image/DarkNavy2.png" />  
 1
@@ -23,12 +25,7 @@
 
 ## 3. [go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  
 
-0
-![](https://github.com/Yz-Filer/golang/blob/main/Contents/01/image/window.jpg)    
-1
-<img src="../golang/blob/main/Contents/01/image/window.jpg" />  
-2
-<img src="../golang/Contents/01/image/window.jpg" />  
+![](https://github.com/Yz-Filer/golang/blob/main/Contents/01/image/window.jpg)  
 
 Yz-Filer作成時に調べきれなかった事とかがあったので、GeminiとWEB検索を利用して調べ直したメモです。  
 

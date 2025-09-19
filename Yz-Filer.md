@@ -171,7 +171,7 @@
       ![](image/White2.png) | ![](image/Dark2.png) | ![](image/DarkNavy2.png) | ![](image/DarkBrown2.png) | ![](image/DarkGreen2.png)
 
   - キーコマンド一覧は、F1キーで表示されます。  
-    [こちらにも一覧があります](./KeyCommand.md)
+    [こちらにも一覧があります](./.github/KeyCommand.md)
 
 ## 環境・制限・いいわけ
 - ゴミ箱には対応してません。削除したらゴミ箱に移動せず削除となります。

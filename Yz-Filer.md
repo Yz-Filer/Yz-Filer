@@ -168,7 +168,7 @@
 
       | White | Dark | Dark Navy | Dark Brown | Dark Green |
       :----: | :----: | :----: | :----: | :----:
-      ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/White2.png) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/Dark2.png) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/DarkNavy2.png) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/DarkBrown2.png) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/DarkGreen2.png)
+      ![](image/White2.png) | ![](image/Dark2.png) | ![](image/DarkNavy2.png) | ![](image/DarkBrown2.png) | ![](image/DarkGreen2.png)
 
   - キーコマンド一覧は、F1キーで表示されます。  
     [こちらにも一覧があります](./KeyCommand.md)
@@ -184,11 +184,11 @@
 
   | 元画像 | グレースケール | スケッチ風 |
   :----: | :----: | :----:
-  ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/bird_.png) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/bird_Gray.png) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/bird_sketch.png)
+  ![](image/bird_.png) | ![](image/bird_Gray.png) | ![](image/bird_sketch.png)
 
   | 水彩画風 | 漫画風(3値化) | 黒板アート風 |
   :----: | :----: | :----:
-  ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/bird_watercolor.png) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/bird_manga.png) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/bird_blackboard.png)
+  ![](image/bird_watercolor.png) | ![](image/bird_manga.png) | ![](image/bird_blackboard.png)
 
 - SFTPはKOReaderとのファイルのやりとりを目的にして作りました。  
   他の環境では、うまく動作しないかもしれません。
@@ -306,11 +306,11 @@ C#プログラムについては、DOBONさん始め多くの方のHPを参考�
 
 | スケッチパッド(2値化) | Tシャツ(2値化) |
 :----: | :----:
-![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/Model_sketchpad.gif) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/Model_Tshirt.gif)
+![](image/Model_sketchpad.gif) | ![](image/Model_Tshirt.gif)
 
 | 板(2値化) | 黒板アート風 |
 :----: | :----:
-![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/Model_wood.gif) | ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/.github/Model_blackboard.gif)
+![](image/Model_wood.gif) | ![](image/Model_blackboard.gif)
 
 - 「画像まとめて変換」君のインストール
   - レジストリは使用してません。任意のディレクトリに解凍して下さい。

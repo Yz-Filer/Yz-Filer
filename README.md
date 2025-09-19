@@ -3,6 +3,7 @@
 ## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/Yz-Filer.md)  
 
 ![](https://github.com/Yz-Filer/Yz-Filer/blob/master/image/DarkNavy2.png)  
+<img src="https://github.com/Yz-Filer/Yz-Filer/blob/master/image/DarkNavy2.png" width="40%" />
 
 キー操作系ファイラ―のFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラ―です。  
 ※Windows版  

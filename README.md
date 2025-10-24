@@ -8,13 +8,14 @@
 ![](image/DarkNavy2.png)  
 
 キー操作系ファイラーのFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラーです。  
-※Windows版  
+C#言語で作成したWindows対応版となります。  
 
 ## 2. Yz-Filer Ver.3  
 
-キー操作系ファイラーのFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラーです。  
+キー操作系ファイラーのFD、FILMTN、WinFMっぽいSMB/SCP対応のタブ型ファイラーです。  
+Go言語 + GTK3で作成したLinux対応版となります。  
+
 > [!NOTE]  
-> Go言語 + GTK3で作成したLinux対応版です。  
 > Windows版も同梱してますが、gtk3の制約でDrag & Dropが出来ないなどの機能制限があります。  
 
 [ここ](bin/Yz-Filer_3.0.zip)
@@ -22,12 +23,13 @@
 
 ## 3. [Yz-Filer Ver.3.1（vectorに公開）](https://www.vector.co.jp/soft/data/util/se523591.html)  
 
-Go言語 + GTK3で作成したLinux/Windows対応版です。  
+キー操作系ファイラーのFD、FILMTN、WinFMっぽいSMB/SCP対応のタブ型ファイラーです。  
+Go言語 + GTK3で作成したLinux/Windows対応版となります。  
 [go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  で確認した内容を取り込んで、Windows版もDrag & Dropに対応しました。
 
 <img src="image/yz3.1_window1.png" width="40%" /> <img src="image/yz3.1_window2.png" width="40%" />  
 
-Ver.3から上図のように、テーマをカスタマイズすることで、半透明や背景画像の指定にも対応しています。  
+gtk3を使ってるため、Ver.3から上図のように、テーマをカスタマイズすることで、半透明や背景画像の指定も出来るようになりました。  
 
 > [!NOTE]
 > 詳細は、[3. テーマを使いたい](https://github.com/Yz-Filer/golang/tree/main/Contents/03)を参照
@@ -39,9 +41,9 @@ Ver.3からVer.3.1への主な変更点は以下の通りです。
 
 - Windows環境でローカルファイルの右クリックメニューにエクスプローラーの右クリックメニューを表示するように変更しました。（一部表示されないサブメニューがあります）
 
-- リソースを埋め込んだのでgladeファイルが不要になりました。
+- 機能には関係ないですが、リソースを埋め込んだのでgladeファイルが不要になりました。
 
-- 機能的には大きく変わってませんが、画像ビューア、文字コード変換、USBディスク監視、ディレクトリ監視を上記githubの内容に変更しました。
+- 機能的には大きく変わってませんが、画像ビューア、文字コード変換、USBディスク監視、ディレクトリ監視を「[go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)」の内容に変更しました。
 （画像ビューアは、範囲指定、コピー(Ctrl + C)、ペースト(Ctrl + V)、背景色の変更に対応しました）  
 <img src="image/yz3.1_ImageViewer.png" width="40%" />  
 

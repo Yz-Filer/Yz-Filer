@@ -13,7 +13,7 @@
 ## 2. Yz-Filer Ver.3  
 
 キー操作系ファイラーのFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラーです。  
-> ![NOTE]  
+> [!NOTE]  
 > Go言語 + GTK3で作成したLinux対応版です。  
 > Windows版も同梱してますが、gtk3の制約でDrag & Dropが出来ないなどの機能制限があります。  
 

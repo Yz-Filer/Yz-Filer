@@ -21,9 +21,13 @@ Go言語 + GTK3で作成したLinux対応版となります。
 [ここ](bin/Yz-Filer_3.0.zip)
 に置いてます。 
 
-## 3. [Yz-Filer Ver.3.1（vectorに公開）](https://www.vector.co.jp/soft/data/util/se523591.html)  
+## 3. Yz-Filer Ver.3.1
 
 キー操作系ファイラーのFD、FILMTN、WinFMっぽいSMB/SCP対応のタブ型ファイラーです。  
+
+- [vector](https://www.vector.co.jp/soft/data/util/se523591.html)
+- [GitHub Releases](https://github.com/Yz-Filer/Yz-Filer/releases)  
+
 Go言語 + GTK3で作成したLinux/Windows対応版となります。  
 [go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  で確認した内容を取り込んで、Windows版もDrag & Dropに対応しました。
 

@@ -3,14 +3,16 @@
 > [!NOTE]  
 > `https://yz-filer.github.io/Yz-Filer/`のURLが表示されていて表示が崩れてる場合は、上記リンクからオリジナルページ`https://github.com/Yz-Filer`にアクセスして下さい。  
 
-## 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/Yz-Filer.md)  
+## 1. Yz-Filer  
+
+### 1. [Yz-Filer Ver.2](https://github.com/Yz-Filer/Yz-Filer/blob/master/Yz-Filer.md)  
 
 ![](image/DarkNavy2.png)  
 
 キー操作系ファイラーのFD、FILMTN、WinFMっぽいSFTP/SCP対応のタブ型ファイラーです。  
 C#言語で作成したWindows対応版となります。  
 
-## 2. Yz-Filer Ver.3  
+### 2. Yz-Filer Ver.3  
 
 キー操作系ファイラーのFD、FILMTN、WinFMっぽいSMB/SCP対応のタブ型ファイラーです。  
 Go言語 + GTK3で作成したLinux対応版となります。  
@@ -21,7 +23,7 @@ Go言語 + GTK3で作成したLinux対応版となります。
 [ここ](bin/Yz-Filer_3.0.zip)
 に置いてます。 
 
-## 3. Yz-Filer Ver.3.1
+### 3. Yz-Filer Ver.3.1
 
 キー操作系ファイラーのFD、FILMTN、WinFMっぽいSMB/SCP対応のタブ型ファイラーです。  
 
@@ -56,7 +58,7 @@ Ver.3からVer.3.1への主な変更点は以下の通りです。
 （「C:\」などが初期表示されないため、必要に応じて「F7キーコマンド」で登録して下さい）
 
 
-## 4. [go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  
+## 2. [go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  
 
 ![](image/window.jpg)  
 
@@ -68,13 +70,13 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 
 などを記載してます。  
 
-## 5. [Yz-VideoEffect / Yz-ImageEffect](https://github.com/Yz-Filer/Yz-VideoEffect)  
+## 3. [Yz-VideoEffect / Yz-ImageEffect](https://github.com/Yz-Filer/Yz-VideoEffect)  
 
 <img src="image/sk_kanazawa_org.jpg" width="40%" /> <img src="image/sk_kanazawa.jpg" width="40%" />  
 
 写真や動画をエッジ、2値化、3値化、水彩画風、黒板アート風、スケッチ風、アニメ風に変換するツールです。  
 
-## 6. [OfficeShapeTool](https://github.com/Yz-Filer/OfficeShapeTool)  
+## 4. [OfficeShapeTool](https://github.com/Yz-Filer/OfficeShapeTool)  
 
 ![](image/hdl6.gif)  
 

@@ -1,2 +1,5 @@
+url: "https://yz-filer.github.io"
+baseurl: "/Yz-Filer"
+
 plugins:
   - jekyll-sitemap

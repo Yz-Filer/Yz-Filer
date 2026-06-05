@@ -80,7 +80,7 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 
 ![](image/hdl6.gif)  
 
-Microsoft OfficeのPowerPoint形式（Office Open XMLのプレゼンテーション形式）で保存された図形に「接続ポイント」と「調整ハンドル」を追加するツールです。  
+Office Open XML（OOXML）のプレゼンテーション形式（pptx形式）で保存されたファイルを読み込み、 MS Office PowerPoint (pptx形式)や、 LibreOffice Impress (odp形式)の「図形」に、「接続ポイント」と「調整ハンドル」を追加できるツールです。  
 「図形の結合」機能とあわせて使うとオリジナルの図形が作成できます。  
 
 [1. はじめに](https://github.com/Yz-Filer/OfficeShapeTool#1-%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)  

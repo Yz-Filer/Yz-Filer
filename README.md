@@ -89,3 +89,6 @@ Microsoft OfficeのPowerPoint形式（Office Open XMLのプレゼンテーショ
 [4. カスタム図形への接続ポイントと水平/垂直移動調整ハンドル追加](https://github.com/Yz-Filer/OfficeShapeTool#4-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E5%9B%B3%E5%BD%A2%E3%81%B8%E3%81%AE%E6%8E%A5%E7%B6%9A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%A8%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E7%A7%BB%E5%8B%95%E8%AA%BF%E6%95%B4%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%E8%BF%BD%E5%8A%A0)  
 [5. 画像への接続ポイント追加](https://github.com/Yz-Filer/OfficeShapeTool#5-%E7%94%BB%E5%83%8F%E3%81%B8%E3%81%AE%E6%8E%A5%E7%B6%9A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E8%BF%BD%E5%8A%A0)  
 [6. カスタム図形への回転/放射移動調整ハンドル追加](https://github.com/Yz-Filer/OfficeShapeTool#6-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E5%9B%B3%E5%BD%A2%E3%81%B8%E3%81%AE%E5%9B%9E%E8%BB%A2%E6%94%BE%E5%B0%84%E7%A7%BB%E5%8B%95%E8%AA%BF%E6%95%B4%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%E8%BF%BD%E5%8A%A0)  
+[7. ライセンス](https://github.com/Yz-Filer/OfficeShapeTool#7-%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)  
+[8. おわりに](https://github.com/Yz-Filer/OfficeShapeTool#8-%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%AB)  
+

@@ -70,13 +70,19 @@ Yz-Filer作成時に調べきれなかった事とかがあったので、Gemini
 
 などを記載してます。  
 
-## 3. [Yz-VideoEffect / Yz-ImageEffect](https://github.com/Yz-Filer/Yz-VideoEffect)  
+## 3. [パワーポイントの「左揃え」のような「整列」機能がある付箋アプリ](https://github.com/Yz-Filer/fusen)  
+
+[go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  で途中まで作ったのでアプリとして動作するように作成しました。  
+付箋アプリは既に色々あるのですが、「左揃え」とかで検索してもあまり整列機能がある付箋アプリは見つけられなかったので、整列機能をつける方向で作成してみました。  
+
+
+## 4. [Yz-VideoEffect / Yz-ImageEffect](https://github.com/Yz-Filer/Yz-VideoEffect)  
 
 <img src="image/sk_kanazawa_org.jpg" width="40%" /> <img src="image/sk_kanazawa.jpg" width="40%" />  
 
 写真や動画をエッジ、2値化、3値化、水彩画風、黒板アート風、スケッチ風、アニメ風に変換するツールです。  
 
-## 4. [OfficeShapeTool](https://github.com/Yz-Filer/OfficeShapeTool)  
+## 5. [OfficeShapeTool](https://github.com/Yz-Filer/OfficeShapeTool)  
 
 ![](image/hdl6.gif)  
 
